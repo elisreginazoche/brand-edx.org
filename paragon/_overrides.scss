@@ -394,3 +394,14 @@ a.inline-link {
     color: $gray-900;
   }
 }
+
+
+.btn.btn-brand.btn-block {
+    background-color: #0A2D82 !important;
+  }
+
+  .btn-brand:hover {
+    color: #fff;
+    background-color: #0A2D82 !important;
+    border-color: #0A2D82 !important;
+  }
